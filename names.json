@@ -1,8 +1,13 @@
 {
 	"p1":"Alex",
-	"p2":"Alina",
+	"p2":"Alina"
 	"p3":"Victor",
 	"p4":"Anna",
+<<<<<<< HEAD
 	"p5":"Vadim",	
 	"p6":"Alida"
+=======
+	"p5":"Vadim"
+	
+>>>>>>> 69a84ffddf9bf39db519a13c4f41b3c8b8b52200
 }
